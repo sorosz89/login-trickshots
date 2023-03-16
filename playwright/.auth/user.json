@@ -1,0 +1,76 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.2.1170600056.1678975726",
+      "domain": ".mozilla.org",
+      "path": "/",
+      "expires": 1713535733.778603,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.491305435.1678975726",
+      "domain": ".mozilla.org",
+      "path": "/",
+      "expires": 1679062133,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".mozilla.org",
+      "path": "/",
+      "expires": 1678975785,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth-cookie",
+      "value": "51NYQcO7idBDs9dYv5ZLQRjkfEr%2FWphbtI2Lzuam7u3Gtjw2mu6bXqecCdfTo8%2FORm6H6i6pE9kIX%2FzKrlBWXOsjE4C6CylXW52Kcd2tWS3xte%2F4lblVDEvbgme3",
+      "domain": "developer.mozilla.org",
+      "path": "/",
+      "expires": 1710511733.345191,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://developer.mozilla.org",
+      "localStorage": [
+        {
+          "name": "next-ping",
+          "value": "2023-03-17T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "origin": "https://accounts.firefox.com",
+      "localStorage": [
+        {
+          "name": "__fxa_storage.accounts",
+          "value": "{\"c4c3cd6bcfc34a0bad1e0e25ac2fdc7b\":{\"email\":\"os.sandor@gmail.com\",\"lastLogin\":1678975732586,\"sessionToken\":\"520437692777afac1636dc463d0d539964e5781dff03d547bd70cf2eee0030b6\",\"uid\":\"c4c3cd6bcfc34a0bad1e0e25ac2fdc7b\",\"metricsEnabled\":true,\"verified\":true}}"
+        },
+        {
+          "name": "__fxa_storage.currentAccountUid",
+          "value": "\"c4c3cd6bcfc34a0bad1e0e25ac2fdc7b\""
+        },
+        {
+          "name": "__fxa_storage.uniqueUserId",
+          "value": "\"f0423061-7e7d-42bf-af1d-51a555fdd553\""
+        },
+        {
+          "name": "_st",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
